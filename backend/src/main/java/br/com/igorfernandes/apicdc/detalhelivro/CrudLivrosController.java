@@ -21,7 +21,7 @@ public class CrudLivrosController {
 
     @InitBinder
     public void initBinder(WebDataBinder webDataBinder) {
-        webDataBinder.addValidators(new IsbnUnicoValidator(livroRepository), new TituloLivroUnicoValodator(livroRepository));
+        webDataBinder.addValidators(new IsbnUnicoValidator(livroRepository), new TituloLivroUnicoValidator(livroRepository));
     }
 
     @PostMapping("/api/livro")
