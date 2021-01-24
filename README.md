@@ -53,7 +53,8 @@ Até o momento foram utilizadas as seguintes tecnologias e frameworks:
 - [ ] Kotlin
 - [ ] CI/CD com TravisCI
 - [ ] Deploy AWS/Heroku
-- [ ] Experimentar Front com React
+- [ ] Post em alguma(s) plataforma(s) (Medium, LinkedIn, etc)
+- [ ] Experimentar front com React
 
 ## Contribuindo
 
@@ -82,7 +83,6 @@ Link do projeto: [https://github.com/igorfersantos/CasaDoCodigo](https://github.
 
 ## Créditos
 [Template do README.md: Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
