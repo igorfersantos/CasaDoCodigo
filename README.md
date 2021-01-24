@@ -50,8 +50,9 @@ Até o momento foram utilizadas as seguintes tecnologias e frameworks:
 ## Roadmap
 
 - [x] Endpoint para Livro, Categoria e Autor
+- [ ] Terminar todas as features da playlist
 - [ ] Kotlin
-- [ ] CI/CD com TravisCI
+- [ ] TravisCI
 - [ ] Deploy AWS/Heroku
 - [ ] Post em alguma(s) plataforma(s) (Medium, LinkedIn, etc)
 - [ ] Experimentar front com React
