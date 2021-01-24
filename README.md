@@ -24,7 +24,7 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contribuindo">Contribuindo</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#créditos">Créditos</a></li>
